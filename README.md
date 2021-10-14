@@ -10,7 +10,7 @@ Checkout my [blog](https://tannercampbell.com) where I share topics that I use d
   - Typscript
   - TailwindCSS
 
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning:
   - Go
   - Kubernetes
 
