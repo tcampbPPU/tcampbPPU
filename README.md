@@ -2,7 +2,7 @@
 
 Checkout my [blog](https://tannercampbell.com) where I share topics that I use daily or I am just learning and sharing my expericne with the fellow dev!
 
-- 🔭 I’m currently working on projects with that involve:
+- 🔭 I’m currently working on projects that involve:
   - Laravel
   - Nuxt
   - Vue
