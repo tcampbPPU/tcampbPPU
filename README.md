@@ -7,7 +7,7 @@ Checkout my [blog](https://tannercampbell.com) where I share about topics that I
   - Nuxt
   - Vue
   - AWS Lambda
-  - Typscript
+  - TypeScript
   - TailwindCSS
 
 - 🌱 I’m currently learning:
