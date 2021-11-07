@@ -21,7 +21,7 @@ Checkout my [Blog](https://tannercampbell.com) where I share about topics that I
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" />
 </p>
 
-### [Daily Dev Stats](https://app.daily.dev/tcamp)
+### 📚 Daily Dev Stats
 <p align="left">
   <a href="https://app.daily.dev/tcamp">
     <img src="https://api.daily.dev/devcards/58bf24fdb2774c8788c1ad9cc67ed0f2.png?r=fwe" width="400" alt="Tanner's Dev Card"/>
