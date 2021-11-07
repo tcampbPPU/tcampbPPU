@@ -2,7 +2,7 @@
 
 Checkout my [Blog](https://tannercampbell.com) where I share about topics that I use daily or I am just learning and sharing my experiences with the fellow dev!
 
-### 🔭 I’m currently working on projects that involve:
+### 🔭 I’m currently working on projects which involve:
 <p align="left">
   <img src='https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg' alt="laravel" />
   <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg" alt="nuxtjs" />
