@@ -10,6 +10,8 @@ Checkout my [Blog](https://tannercampbell.com) where I share about topics that I
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwindcss" />
   <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg" alt="aws-lambda" />
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="aws-lambda" />
+  <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vapor.svg" alt="laravel-vapor" width="40" height="50" />
 </p>
 
 ### 🌱 I’m currently learning:
@@ -20,5 +22,7 @@ Checkout my [Blog](https://tannercampbell.com) where I share about topics that I
 
 ### [Daily Dev Stats](https://app.daily.dev/)
 <p align="left">
-<a href="https://app.daily.dev/tcamp"><img src="https://api.daily.dev/devcards/58bf24fdb2774c8788c1ad9cc67ed0f2.png?r=fwe" width="400" alt="Tanner's Dev Card"/></a>
+  <a href="https://app.daily.dev/tcamp">
+    <img src="https://api.daily.dev/devcards/58bf24fdb2774c8788c1ad9cc67ed0f2.png?r=fwe" width="400" alt="Tanner's Dev Card"/>
+  </a>
 </p>
