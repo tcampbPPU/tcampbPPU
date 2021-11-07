@@ -5,6 +5,7 @@ Checkout my [Blog](https://tannercampbell.com) where I share about topics that I
 ### 🔭 I’m currently working on projects which involve:
 <p align="left">
   <img src='https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg' alt="laravel" />
+  <img src='https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg' alt="nodejs" />  
   <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg" alt="nuxtjs" />
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vuejs" />
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" />
