@@ -15,7 +15,7 @@ Checkout my [Blog](https://tannercampbell.com) where I share about topics that I
   <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vapor.svg" alt="laravel-vapor" width="40" height="50" />
 </p>
 
-### 🌱 I’m currently learning:
+### 🌱 Currently learning:
 <p align="left">
   <img src='https://www.vectorlogo.zone/logos/golang/golang-ar21.svg' alt="go-lang" />
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" />
