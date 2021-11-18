@@ -2,7 +2,7 @@
 
 Checkout my [Blog](https://tannercampbell.com) where I share about topics that I use daily or I am just learning and sharing my experiences with the fellow dev!
 
-### 🔭 I’m currently working on projects which involve:
+### 🔭 Mainly working on projects which involve:
 <p align="left">
   <img src='https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg' alt="laravel" />
   <img src='https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg' alt="nodejs" />  
@@ -19,6 +19,7 @@ Checkout my [Blog](https://tannercampbell.com) where I share about topics that I
 <p align="left">
   <img src='https://www.vectorlogo.zone/logos/golang/golang-ar21.svg' alt="go-lang" />
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" />
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="flutter" />
 </p>
 
 ### 📚 Daily Dev Stats
