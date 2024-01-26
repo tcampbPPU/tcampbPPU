@@ -13,7 +13,7 @@ Checkout my [Blog](https://tannercampbell.com) where I share about topics that I
   <img src='https://www.vectorlogo.zone/logos/golang/golang-ar21.svg' alt="go-lang" />
   <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg" alt="aws-lambda" />
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" />
-  <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vapor.svg" alt="laravel-vapor" width="40" height="50" />
+<!--   <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vapor.svg" alt="laravel-vapor" width="40" height="50" /> -->
 </p>
 
 ### 🌱 Currently learning:
