@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Checkout my [Blog](https://tannercampbell.com) where I share about topics that I use daily or I am just learning and sharing my experiences with the fellow dev!
+Checkout my [Blog](https://tannercampbell.dev) where I share about topics that I use daily or I am just learning and sharing my experiences with the fellow dev!
 
 ### 🔭 Mainly working on projects which involve:
 <p align="left">
